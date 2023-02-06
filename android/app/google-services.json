@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689397435557",
+    "project_id": "chat-dbestech",
+    "storage_bucket": "chat-dbestech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689397435557:android:34f92262fe49e398fe514c",
+        "android_client_info": {
+          "package_name": "com.example.chat_dbestech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689397435557-m27g4u1t8nhiln0mescpth0tso7u3btq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv4PXWRVn_65iSPuFpMeKER5PLy_xCrWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689397435557-m27g4u1t8nhiln0mescpth0tso7u3btq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
